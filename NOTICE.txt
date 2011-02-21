@@ -1,0 +1,6 @@
+This product includes software developed by
+Cozycode.net (http://www.cozycode.net/).
+
+This product makes use of the MigLayout, distributed under
+the terms of the free BSD license.
+MigLayout (http://www.miglayout.com)
